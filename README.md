@@ -11,3 +11,4 @@ All of the HTML and CSS for this project have been provided for you.
 Start by getting the #current-date element using the .getElementById() method and assign it to a const variable called currentDateParagraph.
 
 //Step 2
+Use the .getElementById() method to get the #date-options element and use const to assign it to a variable named dateOptionsSelectElement.
